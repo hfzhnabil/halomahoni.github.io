@@ -1,0 +1,708 @@
+.background-topmost {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fcfefe;
+  }
+  .mahoni {
+    color: #fdcedf;
+  }
+  .halomahoni {
+    position: absolute;
+    width: 18.45%;
+    top: 25%;
+    left: 14.44%;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  .call1 {
+    position: absolute;
+    width: 25.95%;
+    top: 0%;
+    left: 30.04%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    color: #ffb7d1;
+  }
+  .div {
+    position: absolute;
+    width: 79.1%;
+    top: 53.66%;
+    left: 20.9%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .phone-call-icon {
+    position: absolute;
+    height: 87.8%;
+    width: 18.91%;
+    top: 9.76%;
+    right: 81.09%;
+    bottom: 2.44%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .call {
+    position: absolute;
+    height: 100%;
+    width: 26.3%;
+    top: 0%;
+    right: 73.7%;
+    bottom: 0%;
+    left: 0%;
+  }
+  .everyday {
+    position: absolute;
+    width: 82.11%;
+    top: 52.5%;
+    left: 17.89%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .work-hour1 {
+    position: absolute;
+    width: 45.87%;
+    top: 0%;
+    left: 17.89%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    color: #ffb7d1;
+  }
+  .clock-icon {
+    position: absolute;
+    height: 83.5%;
+    width: 12.71%;
+    top: 5%;
+    right: 87.29%;
+    bottom: 11.5%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .work-hour {
+    position: absolute;
+    height: 97.56%;
+    width: 36.28%;
+    top: 2.44%;
+    right: 28.91%;
+    bottom: 0%;
+    left: 34.81%;
+  }
+  .jakarta-timur {
+    position: absolute;
+    width: 73.35%;
+    top: 52.5%;
+    left: 26.65%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .location1 {
+    position: absolute;
+    width: 53.85%;
+    top: 0%;
+    left: 26.65%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    color: #ffb7d1;
+  }
+  .location-icon {
+    position: absolute;
+    height: 90%;
+    width: 20.11%;
+    top: 2.5%;
+    right: 79.89%;
+    bottom: 7.5%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .location {
+    position: absolute;
+    height: 97.56%;
+    width: 24.72%;
+    top: 2.44%;
+    right: 0%;
+    bottom: 0%;
+    left: 75.28%;
+  }
+  .contact-section {
+    position: absolute;
+    height: 51.25%;
+    width: 45.25%;
+    top: 23.75%;
+    right: 13.13%;
+    bottom: 25%;
+    left: 41.63%;
+    font-size: 16px;
+    color: #fdcedf;
+    font-family: "Work Sans";
+  }
+  .topmost {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1600px;
+    height: 80px;
+  }
+  .tentang-kami-navbar {
+    position: relative;
+  }
+  .navbar-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .nabil-profile {
+    position: relative;
+    font-weight: 500;
+  }
+  .profile-button {
+    width: 263px;
+    border-radius: 50px;
+    background-color: #a03d56;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 35px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #fdcedf;
+  }
+  .navbar {
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    background-color: #ffb7d1;
+    width: 1600px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 17px 187px 18px;
+    box-sizing: border-box;
+    gap: 276px;
+    font-size: 18px;
+    color: #fcfefe;
+    font-family: "Work Sans";
+  }
+  .tambal-gigi-box, .scaling-box, .cabut-gigi-box, .psa-box {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 5px;
+    background-color: #a03d56;
+  }
+  .tambal-gigi1 {
+    position: absolute;
+    top: 158px;
+    left: 67px;
+    display: inline-block;
+    width: 100px;
+    height: 24.2px;
+  }
+  .tambal-gigi-icon {
+    position: absolute;
+    top: 31px;
+    left: 67px;
+    width: 99.8px;
+    height: 114.6px;
+    object-fit: contain;
+  }
+  .tambal-gigi {
+    position: absolute;
+    height: 41.07%;
+    width: 33.5%;
+    top: 0%;
+    right: 66.5%;
+    bottom: 58.93%;
+    left: 0%;
+  }
+  .scaling1 {
+    position: absolute;
+    top: 155px;
+    left: 76px;
+    display: inline-block;
+    width: 81.4px;
+    height: 21.8px;
+  }
+  .scaling-icon {
+    position: absolute;
+    top: 30px;
+    left: 63px;
+    width: 115px;
+    height: 112px;
+    object-fit: contain;
+  }
+  .scaling {
+    position: absolute;
+    height: 41.07%;
+    width: 33.5%;
+    top: 0%;
+    right: 0%;
+    bottom: 58.93%;
+    left: 66.5%;
+  }
+  .cabut-gigi1 {
+    position: absolute;
+    top: 151px;
+    left: 76px;
+    display: inline-block;
+    width: 81px;
+    height: 21.8px;
+  }
+  .cabut-gigi-icon {
+    position: absolute;
+    top: 28px;
+    left: 63px;
+    width: 108px;
+    height: 110px;
+    object-fit: contain;
+  }
+  .cabut-gigi {
+    position: absolute;
+    height: 41.07%;
+    width: 33.5%;
+    top: 58.93%;
+    right: 66.5%;
+    bottom: 0%;
+    left: 0%;
+  }
+  .psa1 {
+    position: absolute;
+    top: 152px;
+    left: 101px;
+    display: inline-block;
+    width: 31px;
+    height: 21.8px;
+  }
+  .psa {
+    position: absolute;
+    height: 41.07%;
+    width: 33.5%;
+    top: 58.93%;
+    right: 0%;
+    bottom: 0%;
+    left: 66.5%;
+  }
+  .psa-icon {
+    position: absolute;
+    top: 34px;
+    left: 63px;
+    width: 108px;
+    height: 110px;
+    object-fit: contain;
+  }
+  .content-layanan-perawatan {
+    position: absolute;
+    height: 32.53%;
+    width: 43.71%;
+    top: 25.72%;
+    right: 28.17%;
+    bottom: 41.75%;
+    left: 28.13%;
+    text-align: center;
+    font-size: 16px;
+    font-family: "Work Sans";
+  }
+  .background-footer {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #ffb7d1;
+  }
+  .halomahoni1 {
+    position: absolute;
+    width: 93.34%;
+    top: 0%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  .your-one-stop {
+    position: absolute;
+    width: 100%;
+    top: 70.59%;
+    left: 0%;
+    font-size: 18px;
+    line-height: 140%;
+    font-family: "Work Sans";
+    color: #fcfefe;
+    display: inline-block;
+  }
+  .halo-mahoni-title {
+    position: absolute;
+    height: 30.25%;
+    width: 27.21%;
+    top: 0%;
+    right: 72.79%;
+    bottom: 69.75%;
+    left: 0%;
+    font-size: 36px;
+    color: #a03d56;
+    font-family: "Yeseva One";
+  }
+  .menu1 {
+    position: absolute;
+    width: 46.26%;
+    top: 0%;
+    left: 0%;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .tentang-kami1, .tambal-gigi2{
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .layanan1 {
+    position: absolute;
+    width: 61.3%;
+    top: 26.61%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .promo1 {
+    position: absolute;
+    width: 48.11%;
+    top: 53.21%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .galeri1 {
+    position: absolute;
+    width: 43.36%;
+    top: 79.82%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .menu-content, .layanan-content {
+    position: absolute;
+    height: 64.5%;
+    width: 100%;
+    top: 35.5%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-size: 16px;
+  }
+  .menu {
+    position: absolute;
+    height: 60.14%;
+    width: 10.68%;
+    top: 0%;
+    right: 55.65%;
+    bottom: 39.86%;
+    left: 33.67%;
+  }
+  .layanan3 {
+    position: absolute;
+    width: 82.27%;
+    top: 0%;
+    left: 0%;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .scaling2 {
+    position: absolute;
+    width: 62.27%;
+    top: 26.61%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .cabut-gigi2 {
+    position: absolute;
+    width: 90.05%;
+    top: 53.21%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .behel {
+    position: absolute;
+    width: 48.91%;
+    top: 79.82%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .layanan2 {
+    position: absolute;
+    height: 60.14%;
+    width: 9.07%;
+    top: 0%;
+    right: 40.12%;
+    bottom: 39.86%;
+    left: 50.81%;
+  }
+  .contact-us1 {
+    position: absolute;
+    width: 40.32%;
+    top: 0%;
+    left: 0%;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .call-6281213507918 {
+    position: absolute;
+    width: 67.47%;
+    top: 0%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .email-mahonidentalgmailcom {
+    position: absolute;
+    width: 100%;
+    top: 56.86%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .contact-us-content {
+    position: absolute;
+    height: 45.95%;
+    width: 100%;
+    top: 54.05%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-size: 16px;
+  }
+  .contact-us {
+    position: absolute;
+    height: 39.5%;
+    width: 24.5%;
+    top: 0%;
+    right: 9.98%;
+    bottom: 60.5%;
+    left: 65.52%;
+  }
+  .vector-1-icon {
+    position: absolute;
+    height: 0.36%;
+    width: 100%;
+    top: 76.87%;
+    right: 0%;
+    bottom: 22.78%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .copyright-2024 {
+    position: absolute;
+    width: 65.52%;
+    top: 93.24%;
+    left: 0%;
+    font-size: 16px;
+    display: inline-block;
+  }
+  .content-footer {
+    position: absolute;
+    height: 65.81%;
+    width: 72.62%;
+    top: 16.39%;
+    right: 13.69%;
+    bottom: 17.8%;
+    left: 13.69%;
+    font-size: 18px;
+    color: #fcfefe;
+    font-family: "Work Sans";
+  }
+  .footer {
+    position: absolute;
+    top: 1070px;
+    left: 0px;
+    width: 1602px;
+    height: 427px;
+    color: #a03d56;
+  }
+  .layanan-perawatan {
+    width: 100%;
+    position: relative;
+    background-color: #fcfefe;
+    height: 1497px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #ffb7d1;
+    font-family: "Yeseva One";
+  }
+  .halomahoni a {
+    text-decoration: none;
+    color: #ffb7d1;
+  }
+  .navbar-menu a {
+    text-decoration: none;
+    color: #fcfefe;
+  }  
+  .layanan-navbar a {
+    text-decoration: none;
+    color: #a03d56;
+    font-weight: 700;
+  }
+  .profile-button a {
+    text-decoration: none;
+    color: #fdcedf;
+  }
+  .content-layanan-perawatan a {
+    text-decoration: none;
+    color: #fdcedf;
+  }
+  .halo-mahoni-title a {
+    text-decoration: none;
+    color: #a03d56;
+  }
+  .menu a, .layanan2 a, .contact-us a {
+    text-decoration: none;
+    color: #fcfefe;
+  }
+  
+
+  @media screen and (max-width:1920px) and (min-width: 1600px) {
+  .footer {
+    width: 100%;
+  }
+  .navbar {
+    width: 100%;
+  }
+  .topmost {
+    width: 100%;
+  }
+  .navbar-menu {
+    position: absolute;
+    left: 280px;
+  }
+  .contact-section {
+    width: 45%;
+    height: 60%;
+  }
+  .profile-button {
+    position: relative;
+    left: 522px;
+    width: 268px;
+  }
+  .content-layanan-perawatan {
+    left: 550px;
+  }
+  .tambal-gigi-icon, .tambal-gigi1 {
+    left: 95px
+  }
+  .scaling-icon {
+    left: 90px
+  }
+  .scaling1 {
+    left: 98px;
+  }
+  .cabut-gigi-icon {
+    left: 88px;
+  }
+  .cabut-gigi1 {
+    left: 102px;
+  }
+  .psa-icon {
+    left: 90px;
+  }
+  .psa1 {
+    left: 128px;
+  }
+  }
+
+@media screen and (min-width:1280px) and (max-width:1367px) {
+  .topmost {
+    width: 1550px;
+  }
+  .halomahoni {
+    position: relative;
+    left: 205px;
+  }
+  .contact-section {
+    position: absolute;
+    left: 593px;
+    width: 40.9%;
+  }
+  .call {
+    width: 30%;
+  }
+  .work-hour {
+    width: 40%;
+  }
+  .location {
+    width: 30%;
+  }
+  .navbar {
+    width: 1507px;
+  }
+  .footer {
+    width: 1500px;
+  }
+  .profile-button {
+    position: relative;
+    right: 85px;
+  }
+ .navbar-menu {
+    position: relative;
+    left: 20px;
+  } 
+  .content-layanan-perawatan {
+    position: absolute;
+    left: 390px;
+  }
+  .tambal-gigi-icon, .tambal-gigi1 {
+    left: 55px
+  }
+  .scaling-icon {
+    left: 55px
+  }
+  .scaling1 {
+    left: 63px;
+  }
+  .cabut-gigi-icon {
+    left: 50px;
+  }
+  .cabut-gigi1 {
+    left: 65px;
+  }
+  .psa-icon {
+    left: 50px;
+  }
+  .psa1 {
+    left: 90px;
+  }
+  .content-footer {
+    position: relative;
+    left: 150px;
+  }
+}

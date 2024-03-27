@@ -1,0 +1,1885 @@
+.background-topmost {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  background-color: #fcfefe;
+}
+.mahoni {
+  color: #fdcedf;
+}
+.halomahoni {
+  position: absolute;
+  width: 18.45%;
+  top: 23.75%;
+  left: 13.69%;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.call1 {
+  position: absolute;
+  width: 25.95%;
+  top: 0%;
+  left: 30.04%;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  color: #ffb7d1;
+}
+.div {
+  position: absolute;
+  width: 79.1%;
+  top: 53.66%;
+  left: 20.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.phone-call-icon {
+  position: absolute;
+  height: 87.8%;
+  width: 18.91%;
+  top: 9.76%;
+  right: 81.09%;
+  bottom: 2.44%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.call {
+  position: absolute;
+  height: 100%;
+  width: 26.3%;
+  top: 0%;
+  right: 73.7%;
+  bottom: 0%;
+  left: 0%;
+}
+.everyday {
+  position: absolute;
+  width: 82.11%;
+  top: 52.5%;
+  left: 17.89%;
+  font-weight: 500;
+  display: inline-block;
+}
+.work-hour1 {
+  position: absolute;
+  width: 45.87%;
+  top: 0%;
+  left: 17.89%;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  color: #ffb7d1;
+}
+.clock-icon {
+  position: absolute;
+  height: 83.5%;
+  width: 12.71%;
+  top: 5%;
+  right: 87.29%;
+  bottom: 11.5%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.work-hour {
+  position: absolute;
+  height: 97.56%;
+  width: 36.28%;
+  top: 2.44%;
+  right: 28.91%;
+  bottom: 0%;
+  left: 34.81%;
+}
+.jakarta-timur {
+  position: absolute;
+  width: 73.35%;
+  top: 52.5%;
+  left: 26.65%;
+  font-weight: 500;
+  display: inline-block;
+}
+.location1 {
+  position: absolute;
+  width: 53.85%;
+  top: 0%;
+  left: 26.65%;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  color: #ffb7d1;
+}
+.location-icon {
+  position: absolute;
+  height: 90%;
+  width: 20.11%;
+  top: 2.5%;
+  right: 79.89%;
+  bottom: 7.5%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.location {
+  position: absolute;
+  height: 97.56%;
+  width: 24.72%;
+  top: 2.44%;
+  right: 0%;
+  bottom: 0%;
+  left: 75.28%;
+}
+.contact-section {
+  position: absolute;
+  height: 51.25%;
+  width: 45.25%;
+  top: 23.75%;
+  right: 13.13%;
+  bottom: 25%;
+  left: 41.63%;
+  font-size: 16px;
+  color: #fdcedf;
+  font-family: "Work Sans";
+}
+.topmost {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1600px;
+  height: 80px;
+  font-size: 36px;
+  font-family: "Yeseva One";
+}
+.navbar-menu {
+  width: 767px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0px 20px;
+}
+.login {
+  position: relative;
+  font-weight: 500;
+}
+.login-button {
+  border-radius: 50px;
+  background-color: #a03d56;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13px 35px;
+  font-size: 16px;
+  color: #fdcedf;
+}
+.navbar {
+  position: absolute;
+  top: 80px;
+  left: 0px;
+  background-color: #ffb7d1;
+  width: 1600px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 17px 187px 18px;
+  box-sizing: border-box;
+  gap: 0px 276px;
+  font-size: 18px;
+  color: #fcfefe;
+}
+.banner-mahoni-dental-icon {
+  position: absolute;
+  top: 160px;
+  left: 0px;
+  width: 1600px;
+  height: 584px;
+  object-fit: cover;
+}
+.lihat-dokter-icon {
+  width: 50px;
+  position: relative;
+  height: 50px;
+  object-fit: cover;
+}
+.buat-janji-icon {
+  width: 50px;
+  position: relative;
+  height: 50px;
+  object-fit: cover;
+}
+.lihat-dokter {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 5px;
+  background-color: #fdcedf;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 20px;
+  gap: 0px 56px;
+}
+.buat-janji {
+  position: absolute;
+  top: 0px;
+  left: 415px;
+  border-radius: 5px;
+  background-color: #a03d56;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 20px;
+  box-sizing: border-box;
+  gap: 0px 56px;
+  color: #fdcedf;
+}
+.riwayat-janji-icon {
+  width: 48px;
+  position: relative;
+  height: 48px;
+  object-fit: cover;
+}
+.riwayat-janji {
+  position: absolute;
+  top: 0px;
+  left: 831px;
+  border-radius: 5px;
+  background-color: #fdcedf;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 20px;
+  box-sizing: border-box;
+  gap: 0px 56px;
+}
+.fast-service {
+  position: absolute;
+  top: 694px;
+  left: 262px;
+  width: 1077px;
+  height: 100px;
+  color: #a03d56;
+}
+.klinik-gigi-mahoni {
+  position: absolute;
+  top: 81px;
+  left: 0px;
+  line-height: 140%;
+  display: inline-block;
+  width: 658px;
+}
+.kenapa-harus-mahoni {
+  position: absolute;
+  top: 29px;
+  left: 0px;
+}
+.welcome-to-mahoni {
+  position: absolute;
+  top: 0px;
+  left: 104px;
+  font-size: 18px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-family: "Work Sans";
+  color: #fdcedf;
+}
+.welcome-to-mahoni-dental-title {
+  position: absolute;
+  top: 0px;
+  left: 73px;
+  width: 512px;
+  height: 66px;
+  font-size: 32px;
+  color: #ffb7d1;
+  font-family: "Yeseva One";
+}
+.welcome-to-mahoni-dental {
+  position: absolute;
+  top: 885px;
+  left: 471px;
+  width: 658px;
+  height: 147px;
+  text-align: center;
+  color: #202124;
+}
+.list-primary {
+  position: absolute;
+  top: 0px;
+  left: 264px;
+  background-color: #ffb7d1;
+  width: 697px;
+  height: 8px;
+}
+.list-accent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #a03d56;
+  width: 264px;
+  height: 8px;
+}
+.list-secondary {
+  position: absolute;
+  top: 0px;
+  left: 961px;
+  background-color: #fdcedf;
+  width: 264px;
+  height: 8px;
+}
+.list-foto-mahoni {
+  position: absolute;
+  top: 250px;
+  left: 0px;
+  width: 1225px;
+  height: 8px;
+}
+.foto-mahoni-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1225px;
+  height: 250px;
+  object-fit: cover;
+}
+.foto-mahoni-dental {
+  position: absolute;
+  top: 1114px;
+  left: 188px;
+  width: 1225px;
+  height: 258px;
+}
+.jenis-layanan-di {
+  position: absolute;
+  top: 0px;
+  left: 324px;
+  display: inline-block;
+  width: 519px;
+  height: 42.5px;
+}
+.tambal1 {
+  position: absolute;
+  top: 75.9px;
+  left: 0px;
+  display: inline-block;
+  width: 91.6px;
+  height: 22.2px;
+}
+.tambal-gigi-icon {
+  position: absolute;
+  top: 0px;
+  left: 14.2px;
+  width: 58px;
+  height: 66.6px;
+  object-fit: cover;
+}
+.tambal {
+  position: absolute;
+  top: 2px;
+  left: 10px;
+  width: 91.6px;
+  height: 98.1px;
+}
+.scaling1 {
+  position: absolute;
+  top: 75.9px;
+  left: 0px;
+  display: inline-block;
+  width: 70.2px;
+  height: 22.2px;
+}
+.scaling-icon {
+  position: absolute;
+  top: 0px;
+  left: 2.3px;
+  width: 69.6px;
+  height: 66.6px;
+  object-fit: cover;
+}
+.scaling {
+  position: absolute;
+  top: 2px;
+  left: 327px;
+  width: 70.2px;
+  height: 98.1px;
+}
+.cabut1 {
+  position: absolute;
+  top: 78px;
+  left: 0px;
+  display: inline-block;
+  width: 82.4px;
+  height: 22.2px;
+}
+.cabut-gigi-icon {
+  position: absolute;
+  top: 0px;
+  left: 6px;
+  width: 69.2px;
+  height: 69.2px;
+  object-fit: cover;
+}
+.cabut {
+  position: absolute;
+  top: 0px;
+  left: 628px;
+  width: 82.4px;
+  height: 100.2px;
+}
+.behel1 {
+  position: absolute;
+  top: 70px;
+  left: 0px;
+  display: inline-block;
+  width: 159.7px;
+  height: 22.2px;
+}
+.behel-icon {
+  position: absolute;
+  top: 0px;
+  left: 50.9px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.behel {
+  position: absolute;
+  top: 8px;
+  left: 896px;
+  width: 159.7px;
+  height: 92.2px;
+}
+.bleaching-gigi {
+  position: absolute;
+  top: 68px;
+  left: 0px;
+  display: inline-block;
+  width: 111.9px;
+  height: 22.2px;
+}
+.bleaching-1-icon {
+  position: absolute;
+  top: 0px;
+  left: 21px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.bleaching {
+  position: absolute;
+  top: 203px;
+  left: 0px;
+  width: 111.9px;
+  height: 90.2px;
+}
+.gigi-palsu1 {
+  position: absolute;
+  top: 67.8px;
+  left: 0px;
+  display: inline-block;
+  width: 78.3px;
+  height: 22.2px;
+}
+.gigi-palsu-icon {
+  position: absolute;
+  top: 0px;
+  left: 10.2px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.gigi-palsu {
+  position: absolute;
+  top: 204px;
+  left: 323px;
+  width: 78.3px;
+  height: 90px;
+}
+.psa1 {
+  position: absolute;
+  top: 70.1px;
+  left: 13.2px;
+  display: inline-block;
+  width: 31.5px;
+  height: 22.2px;
+}
+.psa-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.psa {
+  position: absolute;
+  top: 209px;
+  left: 640px;
+  width: 58px;
+  height: 92.3px;
+}
+.veneer1 {
+  position: absolute;
+  top: 70.2px;
+  left: 0px;
+  display: inline-block;
+  width: 61px;
+  height: 22.2px;
+}
+.veneer-icon {
+  position: absolute;
+  top: 0px;
+  left: 3.1px;
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+}
+.veneer {
+  position: absolute;
+  top: 209px;
+  left: 944px;
+  width: 61px;
+  height: 92.4px;
+}
+.jenis-layanan {
+  position: absolute;
+  top: 159px;
+  left: 68px;
+  width: 1055.7px;
+  height: 301.4px;
+  font-size: 16px;
+  color: #202124;
+  font-family: "Work Sans";
+  z-index: 9999;
+}
+.list-tambal {
+  position: absolute;
+  top: 1px;
+  left: 0px;
+  border: 0.2px solid rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+  width: 248px;
+  height: 197.5px;
+}
+.list-scaling {
+  position: absolute;
+  top: 0px;
+  left: 306px;
+  border: 0.2px solid rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+  width: 248px;
+  height: 197.5px;
+}
+.list-cabut {
+  position: absolute;
+  top: 1px;
+  left: 613px;
+  border: 0.2px solid rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+  width: 248px;
+  height: 197.5px;
+}
+.list-behel {
+  position: absolute;
+  top: 1px;
+  left: 919px;
+  border: 0.2px solid rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+  width: 248px;
+  height: 197.5px;
+}
+.list-bleaching {
+  position: absolute;
+  top: 198.5px;
+  left: 0px;
+  border: 0.2px solid rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+  width: 248px;
+  height: 197.5px;
+}
+.list-gigi-palsu {
+  position: absolute;
+  top: 198.5px;
+  left: 306px;
+  border: 0.2px solid rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+  width: 248px;
+  height: 197.5px;
+}
+.list-psa {
+  position: absolute;
+  top: 198.5px;
+  left: 613px;
+  border: 0.2px solid rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+  width: 248px;
+  height: 197.5px;
+}
+.list-veneer {
+  position: absolute;
+  top: 198.5px;
+  left: 919px;
+  border: 0.2px solid rgba(0, 0, 0, 0.19);
+  box-sizing: border-box;
+  width: 248px;
+  height: 197.5px;
+}
+.list-jenis-layanan {
+  position: absolute;
+  top: 110px;
+  left: 0px;
+  width: 1167px;
+  height: 396px;
+}
+.service {
+  position: absolute;
+  top: 1454px;
+  left: 217px;
+  width: 1167px;
+  height: 506px;
+  text-align: center;
+  font-size: 32px;
+  font-family: "Yeseva One";
+}
+.review-pasien1 {
+  position: absolute;
+  top: 43.94%;
+  left: 0%;
+}
+.trusted-care {
+  position: absolute;
+  top: 0%;
+  left: 12.99%;
+  font-size: 18px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-family: "Work Sans";
+  color: #fdcedf;
+}
+.review-pasien-title {
+  position: absolute;
+  height: 9.19%;
+  width: 23.29%;
+  top: 0%;
+  right: 38.41%;
+  bottom: 90.81%;
+  left: 38.31%;
+  font-size: 32px;
+  color: #ffb7d1;
+  font-family: "Yeseva One";
+}
+.wahyu-wicaksono {
+  position: absolute;
+  top: 337px;
+  left: 171px;
+  line-height: 140%;
+}
+.wahyu-profil-icon {
+  position: absolute;
+  top: 223px;
+  left: 189px;
+  width: 104px;
+  height: 104px;
+  object-fit: cover;
+}
+.klinik-gigi-rekomended {
+  position: absolute;
+  top: 133px;
+  left: 0px;
+  line-height: 140%;
+  display: inline-block;
+  width: 486px;
+  height: 80px;
+}
+.quote-right-wahyu-icon {
+  position: absolute;
+  height: 27.58%;
+  width: 20.14%;
+  top: 0%;
+  right: 40%;
+  bottom: 72.42%;
+  left: 39.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.testimoni-wahyu {
+  position: absolute;
+  top: 155px;
+  left: -28px;
+  width: 486px;
+  height: 359px;
+}
+.ahmad-alif {
+  position: absolute;
+  top: 337px;
+  left: 185px;
+  line-height: 140%;
+}
+.ahmad-profil-icon {
+  position: absolute;
+  top: 223px;
+  left: 181px;
+  width: 106px;
+  height: 104px;
+  object-fit: cover;
+}
+.puas-banget-sama {
+  position: absolute;
+  top: 117px;
+  left: 0px;
+  line-height: 140%;
+  display: inline-block;
+  width: 460px;
+  height: 80px;
+}
+.quote-right-ahmad-icon {
+  position: absolute;
+  height: 27.58%;
+  width: 21.28%;
+  top: 0%;
+  right: 39.39%;
+  bottom: 72.42%;
+  left: 39.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.testimoni-ahmad {
+  position: absolute;
+  top: 155px;
+  left: 529px;
+  width: 460px;
+  height: 359px;
+}
+.review-pasien {
+  position: absolute;
+  top: 2046px;
+  left: 324px;
+  width: 992px;
+  height: 718px;
+  text-align: center;
+  color: #000;
+}
+.rectangle-parent-1 {
+  position: absolute;
+  height: 2.51%;
+  width: 7.46%;
+  top: 92%;
+  right: 46.27%;
+  bottom: 1.11%;
+  left: 45%;
+  }
+  .group-child-1 {
+    position: absolute;
+    height: 100%;
+    width: 24.32%;
+    top: 0%;
+    right: 75.68%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50px;
+    background-color: #a03d56;
+    }
+    .group-item-1 {
+    position: absolute;
+    height: 100%;
+    width: 24.32%;
+    top: 0%;
+    right: 37.84%;
+    bottom: 0%;
+    left: 37.84%;
+    border-radius: 50px;
+    background-color: #ffb7d1;
+    }
+    .group-inner-1 {
+    position: absolute;
+    height: 100%;
+    width: 24.32%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 75.68%;
+    border-radius: 50px;
+    background-color: #ffb7d1;
+    }
+.artikel {
+  position: absolute;
+  top: 43.94%;
+  left: 37.61%;
+}
+.better-information-better-health {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  font-size: 17.8px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-family: "Work Sans";
+  color: #fdcedf;
+}
+.get-in-touch {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  font-size: 17.7px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-family: "Work Sans";
+  color: #fdcedf;
+}
+.artikel-title {
+  position: absolute;
+  height: 10.38%;
+  width: 33.09%;
+  top: 7.86%;
+  right: 35.51%;
+  bottom: 81.76%;
+  left: 31.41%;
+  text-align: center;
+  font-family: "Yeseva One";
+}
+.artikel-1-child, .artikel-2-child, .artikel-3-child, .artikel-4-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: 5px;
+  background-color: #fcfefe;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
+}
+.artikel-1-icon, .artikel-2-icon, .artikel-3-icon, .artikel-4-icon {
+  position: absolute;
+  height: 100%;
+  width: 32.92%;
+  top: 0%;
+  right: 67.08%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: 5px 0px 0px 5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.artikel-caption-1, .artikel-caption-2, .artikel-caption-3, .artikel-caption-4 {
+  margin: 0;
+}
+.artikel-caption {
+  position: absolute;
+  top: 21.05%;
+  left: 0%;
+  font-size: 18px;
+  line-height: 140%;
+}
+.april-2024 {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  color: #fdcedf;
+}
+.view-icon {
+  position: absolute;
+  height: 64.38%;
+  width: 42.11%;
+  top: 18.75%;
+  right: 57.89%;
+  bottom: 16.87%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div1 {
+  position: absolute;
+  left: 55.26%;
+  bottom: 1px;
+}
+.view {
+  position: absolute;
+  height: 100%;
+  width: 46.91%;
+  top: 0%;
+  right: 53.09%;
+  bottom: 0%;
+  left: 0%;
+}
+.vector-icon {
+  position: absolute;
+  height: 88.75%;
+  width: 50%;
+  top: 6.25%;
+  right: 50%;
+  bottom: 5%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div2 {
+  position: absolute;
+  top: 0%;
+  left: 65.63%;
+}
+.likes {
+  position: absolute;
+  height: 100%;
+  width: 39.51%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 60.49%;
+}
+.view-likes {
+  position: absolute;
+  height: 14.04%;
+  width: 32.02%;
+  top: 85.96%;
+  right: 67.98%;
+  bottom: 0%;
+  left: 0%;
+}
+.artikel-1-content {
+  position: absolute;
+  height: 74.03%;
+  width: 52.06%;
+  top: 12.99%;
+  right: 10.91%;
+  bottom: 12.99%;
+  left: 37.04%;
+}
+.artikel-1 {
+  position: absolute;
+  height: 46.95%;
+  width: 48.99%;
+  top: 0%;
+  right: 51.01%;
+  bottom: 53.05%;
+  left: 0%;
+}
+.view-icon1 {
+  position: absolute;
+  height: 64.38%;
+  width: 45.71%;
+  top: 18.75%;
+  right: 54.29%;
+  bottom: 16.87%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div3 {
+  position: absolute;
+  bottom: 1px;
+  left: 60%;
+}
+.view1 {
+  position: absolute;
+  height: 100%;
+  width: 44.3%;
+  top: 0%;
+  right: 55.7%;
+  bottom: 0%;
+  left: 0%;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 88.75%;
+  width: 53.33%;
+  top: 6.25%;
+  right: 46.67%;
+  bottom: 5%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div4 {
+  position: absolute;
+  top: 0%;
+  left: 70%;
+}
+.likes1 {
+  position: absolute;
+  height: 100%;
+  width: 37.97%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 62.03%;
+}
+.view-likes1 {
+  position: absolute;
+  height: 14.04%;
+  width: 30.38%;
+  top: 85.96%;
+  right: 69.62%;
+  bottom: 0%;
+  left: 0%;
+}
+.artikel-2-content {
+  position: absolute;
+  height: 74.03%;
+  width: 53.5%;
+  top: 12.99%;
+  right: 9.47%;
+  bottom: 12.99%;
+  left: 37.04%;
+}
+.artikel-2 {
+  position: absolute;
+  height: 46.95%;
+  width: 48.99%;
+  top: 53.05%;
+  right: 51.01%;
+  bottom: 0%;
+  left: 0%;
+}
+.view2 {
+  position: absolute;
+  height: 100%;
+  width: 48.1%;
+  top: 0%;
+  right: 51.9%;
+  bottom: 0%;
+  left: 0%;
+}
+.view-likes2 {
+  position: absolute;
+  height: 14.04%;
+  width: 27.34%;
+  top: 85.96%;
+  right: 72.66%;
+  bottom: 0%;
+  left: 0%;
+}
+.artikel-3-content {
+  position: absolute;
+  height: 74.03%;
+  width: 59.47%;
+  top: 12.99%;
+  right: 3.5%;
+  bottom: 12.99%;
+  left: 37.04%;
+}
+.artikel-3 {
+  position: absolute;
+  height: 46.95%;
+  width: 48.99%;
+  top: 0%;
+  right: 0%;
+  bottom: 53.05%;
+  left: 51.01%;
+}
+.view3 {
+  position: absolute;
+  height: 100%;
+  width: 41.67%;
+  top: 0%;
+  right: 58.33%;
+  bottom: 0%;
+  left: 0%;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 88.75%;
+  width: 45.71%;
+  top: 6.25%;
+  right: 54.29%;
+  bottom: 5%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.likes3 {
+  position: absolute;
+  height: 100%;
+  width: 41.67%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 58.33%;
+}
+.view-likes3 {
+  position: absolute;
+  height: 14.04%;
+  width: 32.06%;
+  top: 85.96%;
+  right: 67.94%;
+  bottom: 0%;
+  left: 0%;
+}
+.artikel-4-content {
+  position: absolute;
+  height: 74.03%;
+  width: 53.91%;
+  top: 12.99%;
+  right: 9.05%;
+  bottom: 12.99%;
+  left: 37.04%;
+}
+.artikel-4 {
+  position: absolute;
+  height: 46.95%;
+  width: 48.99%;
+  top: 53.05%;
+  right: 0%;
+  bottom: 0%;
+  left: 51.01%;
+}
+.daftar-artikel {
+  position: absolute;
+  height: 51.57%;
+  width: 72.62%;
+  top: 30.5%;
+  right: 13.69%;
+  bottom: 17.92%;
+  left: 13.69%;
+  font-size: 14px;
+  color: #202124;
+}
+.vector-icon4 {
+  width: 10.8px;
+  position: relative;
+  height: 10px;
+  object-fit: contain;
+  display: none;
+}
+.link-button {
+  position: relative;
+  line-height: 140%;
+}
+.vector-icon5 {
+  width: 10.8px;
+  position: relative;
+  height: 10px;
+}
+.lihat-lebih-banyak-button {
+  position: absolute;
+  top: calc(50% + 253px);
+  left: calc(50% - 110px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0px 10px;
+  font-size: 16px;
+  color: #fdcedf;
+}
+.lihat-lebih-banyak {
+  position: relative;
+  line-height: 140%;
+}
+.news-section {
+  position: absolute;
+  top: 2714px;
+  left: 147px;
+  width: 1366px;
+  height: 636px;
+  font-size: 32px;
+}
+.kontak1 {
+  position: absolute;
+  top: 41.27%;
+  left: 13.13%;
+}
+.kontak-title {
+  position: absolute;
+  height: 17.36%;
+  width: 16.13%;
+  top: 0%;
+  right: 41.94%;
+  bottom: 82.64%;
+  left: 39.94%;
+}
+.call-box, .email-box {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: 5px;
+  background-color: #a03d56;
+}
+.call-body-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 33.4px;
+  height: 33.4px;
+  object-fit: cover;
+}
+.div9 {
+  position: absolute;
+  top: 37.18%;
+  left: 0%;
+  line-height: 140%;
+  color: #FDCEDF;
+}
+.div10 {
+  position: absolute;
+  top: 71.79%;
+  left: 0%;
+  line-height: 140%;
+  color: #FDCEDF;
+}
+.call-title {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #FDCEDF;
+}
+.email-title {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #FDCEDF;
+}
+.location-title {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #A03D56;
+}
+.working-hours-title {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #A03D56;
+}
+.call-content {
+  position: absolute;
+  height: 60.47%;
+  width: 100%;
+  top: 39.53%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+}
+.call-body {
+  position: absolute;
+  top: 54px;
+  left: 30px;
+  width: 129px;
+  height: 129px;
+}
+.call2 {
+  position: absolute;
+  height: 100%;
+  width: 23.49%;
+  top: 0%;
+  right: 76.51%;
+  bottom: 0%;
+  left: 0%;
+}
+.location-box, .working-hours-box {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: 5px;
+  background-color: #fdcedf;
+}
+.location-body-child {
+  position: absolute;
+  height: 32.75%;
+  width: 30.93%;
+  top: 0%;
+  right: 69.07%;
+  bottom: 67.25%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.jakarta-timur1 {
+  position: absolute;
+  top: 56.86%;
+  left: 0%;
+  line-height: 140%;
+}
+.everyday-921 {
+  position: absolute;
+  top: 56.86%;
+  left: 0%;
+  line-height: 140%;
+  color: #A03D56;
+}
+.location-content {
+  position: absolute;
+  height: 50%;
+  width: 100%;
+  top: 50%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+}
+.location-body {
+  position: absolute;
+  height: 43.78%;
+  width: 46.35%;
+  top: 23.18%;
+  right: 40.77%;
+  bottom: 33.05%;
+  left: 12.88%;
+}
+.location2 {
+  position: absolute;
+  height: 100%;
+  width: 23.49%;
+  top: 0%;
+  right: 51.01%;
+  bottom: 0%;
+  left: 25.5%;
+  color: #a03d56;
+}
+.email-body-child {
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  width: 33.4px;
+  height: 33.4px;
+  object-fit: cover;
+}
+.mahonidentalgmailcom {
+  position: absolute;
+  top: 58%;
+  left: 0.52%;
+  line-height: 140%;
+  color: #FDCEDF;
+}
+.email-content {
+  position: absolute;
+  height: 49.5%;
+  width: 100%;
+  top: 50.5%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+}
+.email-body {
+  position: absolute;
+  top: 54px;
+  left: 30px;
+  width: 192px;
+  height: 101px;
+}
+.email {
+  position: absolute;
+  height: 100%;
+  width: 23.49%;
+  top: 0%;
+  right: 25.5%;
+  bottom: 0%;
+  left: 51.01%;
+  font-size: 15px;
+}
+.clock-icon1 {
+  position: absolute;
+  height: 32.75%;
+  width: 19.88%;
+  top: 0%;
+  right: 80.12%;
+  bottom: 67.25%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.working-hours-content {
+  position: absolute;
+  height: 50%;
+  width: 99.4%;
+  top: 50%;
+  right: 0%;
+  bottom: 0%;
+  left: 0.6%;
+}
+.working-hours-body {
+  position: absolute;
+  height: 43.78%;
+  width: 72.1%;
+  top: 23.18%;
+  right: 15.45%;
+  bottom: 33.05%;
+  left: 12.45%;
+}
+.working-hours {
+  position: absolute;
+  height: 100%;
+  width: 23.49%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 76.51%;
+  color: #a03d56;
+}
+.contact-section1 {
+  position: absolute;
+  height: 64.19%;
+  width: 100%;
+  top: 35.81%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  text-align: left;
+  font-size: 16px;
+  font-family: "Work Sans";
+}
+.contacts-section {
+  position: absolute;
+  top: 3385px;
+  left: 304px;
+  width: 992px;
+  height: 363px;
+  text-align: center;
+  font-size: 32px;
+  font-family: "Yeseva One";
+}
+.background-footer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  background-color: #ffb7d1;
+}
+.copyright-2024 {
+  position: absolute;
+  width: 65.52%;
+  top: 93.24%;
+  left: 0%;
+  font-size: 16px;
+  display: inline-block;
+}
+.vector-line {
+  position: absolute;
+  height: 0.36%;
+  width: 100%;
+  top: 76.87%;
+  right: 0%;
+  bottom: 22.78%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.contact-us1 {
+  position: absolute;
+  width: 40.32%;
+  top: 0%;
+  left: 0%;
+  font-weight: 600;
+  display: inline-block;
+}
+.call-6281213507918 {
+  position: absolute;
+  width: 67.47%;
+  top: 0%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.email-mahonidentalgmailcom {
+  position: absolute;
+  width: 100%;
+  top: 56.86%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.contact-us-content {
+  position: absolute;
+  height: 45.95%;
+  width: 100%;
+  top: 54.05%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  font-size: 16px;
+}
+.contact-us {
+  position: absolute;
+  height: 39.5%;
+  width: 24.5%;
+  top: 0%;
+  right: 9.98%;
+  bottom: 60.5%;
+  left: 65.52%;
+}
+.layanan2 {
+  position: absolute;
+  width: 82.27%;
+  top: 0%;
+  left: 0%;
+  font-weight: 600;
+  display: inline-block;
+}
+.tambal-gigi {
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.tentang-kami {
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.scaling2 {
+  position: absolute;
+  width: 62.27%;
+  top: 26.61%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.cabut-gigi {
+  position: absolute;
+  width: 90.05%;
+  top: 53.21%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.behel2 {
+  position: absolute;
+  width: 48.91%;
+  top: 79.82%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.layanan-content {
+  position: absolute;
+  height: 64.5%;
+  width: 100%;
+  top: 35.5%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  font-size: 16px;
+}
+.menu-content {
+  position: absolute;
+  height: 64.5%;
+  width: 100%;
+  top: 35.5%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  font-size: 16px;
+}
+.layanan1 {
+  position: absolute;
+  height: 60.14%;
+  width: 9.07%;
+  top: 0%;
+  right: 40.12%;
+  bottom: 39.86%;
+  left: 50.81%;
+}
+.menu1 {
+  position: absolute;
+  width: 46.26%;
+  top: 0%;
+  left: 0%;
+  font-weight: 600;
+  display: inline-block;
+}
+.layanan3 {
+  position: absolute;
+  width: 61.3%;
+  top: 26.61%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.promo1 {
+  position: absolute;
+  width: 48.11%;
+  top: 53.21%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.galeri1 {
+  position: absolute;
+  width: 43.36%;
+  top: 79.82%;
+  left: 0%;
+  line-height: 140%;
+  display: inline-block;
+}
+.menu {
+  position: absolute;
+  height: 60.14%;
+  width: 10.68%;
+  top: 0%;
+  right: 55.65%;
+  bottom: 39.86%;
+  left: 33.67%;
+}
+.halomahoni1 {
+  position: absolute;
+  width: 93.34%;
+  top: 0%;
+  left: 0%;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.your-one-stop {
+  position: absolute;
+  width: 100%;
+  top: 70.59%;
+  left: 0%;
+  font-size: 18px;
+  line-height: 140%;
+  font-family: "Work Sans";
+  color: #fcfefe;
+  display: inline-block;
+}
+.halo-mahoni-title {
+  position: absolute;
+  height: 30.25%;
+  width: 27.21%;
+  top: 0%;
+  right: 72.79%;
+  bottom: 69.75%;
+  left: 0%;
+  font-size: 36px;
+  color: #a03d56;
+  font-family: "Yeseva One";
+}
+.content-footer {
+  position: absolute;
+  height: 65.81%;
+  width: 72.62%;
+  top: 16.39%;
+  right: 13.69%;
+  bottom: 17.8%;
+  left: 13.69%;
+}
+.footer {
+  position: absolute;
+  top: 3840px;
+  left: -2px;
+  width: 1602px;
+  height: 427px;
+  font-size: 18px;
+  color: #fcfefe;
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: #fcfefe;
+  height: 4267px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #ffb7d1;
+  font-family: "Work Sans";
+}
+.halomahoni a {
+  text-decoration: none;
+  color: #ffb7d1;
+}
+.login-button a {
+  text-decoration: none;
+  color: #fdcedf;
+}
+.navbar-menu a {
+  text-decoration: none;
+  color: #fcfefe;
+}
+.lihat-dokter a, .riwayat-janji a {
+  text-decoration: none;
+  color: #a03d56;
+}
+.buat-janji a {
+  text-decoration: none;
+  color: #FDCEDF;
+}
+.jenis-layanan a {
+  text-decoration: none;
+  color: #202124;;
+}
+.daftar-artikel a {
+  text-decoration: none;
+  color: #202124;
+}
+.lihat-lebih-banyak a {
+  text-decoration: none;
+  color: #ffb7d1;
+}
+.halo-mahoni-title a {
+  text-decoration: none;
+  color: #a03d56;
+}
+.menu a, .layanan1 a, .contact-us a {
+  text-decoration: none;
+  color: #fcfefe;
+}
+
+
+@media screen and (max-width:1920px) and (min-width: 1600px) {
+  .topmost {
+		width: 100%;
+	}
+  .navbar {
+    width: 100%;
+  }
+  .navbar-menu {
+    position: absolute;
+    left: 260px;
+  }
+  .login-button {
+    position: relative;
+    left: 600px;
+  }
+  .footer {
+    width: 100%;
+  }
+  .contact-section {
+    width: 45%;
+    height: 60%;
+  }
+  .banner-mahoni-dental-icon {
+    width: 100%;
+  }
+  .fast-service {
+    position: absolute;
+  left: 450px;
+  text-align: center;
+  }
+  .welcome-to-mahoni-dental {
+    left: 650px;
+  }
+  .foto-mahoni-dental {
+    left: 350px;
+  }
+  .service {
+    left: 380px;
+  }
+  .review-pasien {
+    left: 480px;
+  }
+  .news-section {
+    left: 310px;
+  }
+  .contacts-section {
+      left: 480px;
+  }
+}
+
+@media screen and (min-width:1280px) and (max-width:1367px) {
+  .footer {
+    width: 1500px;
+  }
+  .content-footer {
+    left: 10.5%;
+  }
+  .topmost {
+    width: 1421px;
+  }
+  .call {
+    width: 27.3%;
+  }
+  .work-hour {
+    width: 40%;
+  }
+  .navbar {
+    width: 1366px;
+  }
+  .navbar-menu {
+    position: absolute;
+    left: 200px;
+  }
+  .login-button {
+    position: relative;
+    left: 490px;
+  }
+  .fast-service {
+    position: relative;
+    left: 170px;
+    width: 100px;
+  }
+  .welcome-to-mahoni-dental {
+    left: 350px;
+  }
+  .foto-mahoni-dental img {
+    width: 1000px;
+  }
+  .list-foto-mahoni .list-primary {
+    width: 546px;
+  }
+  .list-foto-mahoni .list-secondary {
+    left: 737px;
+  }
+  .service {
+    left: 110px;
+  }
+  .review-pasien {
+    left: 200px;
+  }
+  .news-section {
+    left: 25px;
+  }
+  .contacts-section {
+    left: 205px;
+  }
+  .lihat-dokter {
+    width: 204px;
+  }
+  .buat-janji {
+    width: 224px;
+  }
+  .riwayat-janji {
+    width: 246px;
+  }
+}
