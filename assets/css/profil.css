@@ -331,6 +331,10 @@
     font-size: 16px;
     color: #a03d56;
   }
+  .logout {
+    position: relative;
+    font-weight: 500;
+  }
   .content-profil {
     position: absolute;
     top: 278px;

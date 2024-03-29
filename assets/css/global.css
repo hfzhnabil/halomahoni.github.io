@@ -1,4 +1,69 @@
-body {
+* {
   margin: 0;
-  line-height: normal;
+  padding: 0;
+}
+
+/* CSS: hover Selector */
+.navbar-menu a:hover {
+  color: #a03d56;
+  font-weight: 500;
+}
+.login-button:hover {
+  background-color: #a03d56;
+  filter: brightness(95%);
+}
+.profile-button:hover {
+  background-color: #a03d56;
+  filter: brightness(95%);
+}
+.menu-content a:hover, .layanan-content a:hover, .contact-us-content a:hover {
+  color: #a03d56;
+  font-weight: 500;
+}
+.lihat-dokter:hover, .riwayat-janji:hover {
+  filter: brightness(105%);
+}
+.buat-janji:hover {
+  filter: brightness(112%);
+}
+.lihat-lebih-banyak-button a:hover {
+  font-weight: 600;
+}
+.download-pricelist-button:hover {
+  border: 2px solid #a03d56;
+}
+.baca-lebih-lanjut-button a:hover {
+  background-color: #a03d56;
+  filter: brightness(112%);
+}
+.chat-sekarang-button:hover {
+  background-color: #a03d56;
+  filter: brightness(112%);
+}
+.cek-lokasi-button:hover, .cek-lokasi-button1:hover {
+  background-color: #a03d56;
+  filter: brightness(112%);
+}
+.logout-button:hover {
+  border: 2px solid #a03d56;
+}
+.update-data-button:hover {
+  background-color: #a03d56;
+  filter: brightness(112%);
+}
+.login-button1:hover {
+  background-color: #a03d56;
+  filter: brightness(112%);
+}
+.lanjutkan-button:hover {
+  background-color: #a03d56;
+  filter: brightness(112%);
+}
+.reset-password-button:hover {
+  background-color: #a03d56;
+  filter: brightness(112%);
+}
+.register-button:hover {
+  background-color: #a03d56;
+  filter: brightness(112%);
 }

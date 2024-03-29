@@ -374,7 +374,7 @@
     position: relative;
     height: 10px;
   }
-  .baca-lebih-lanjut a {
+  .baca-lebih-lanjut-button a {
     position: absolute;
     height: 6.78%;
     width: 32.19%;
@@ -393,6 +393,10 @@
     gap: 8px;
     text-decoration: none;
     color: #fdcedf;
+  }
+  .baca-lebih-lanjut {
+    position: relative;
+    font-weight: 500;
   }
   .artikel-1 {
     position: absolute;
@@ -629,26 +633,6 @@
     text-align: justify;
     display: inline-block;
   }
-  .baca-lebih-lanjut4 a {
-    position: absolute;
-    height: 6.78%;
-    width: 32.19%;
-    top: 93.22%;
-    right: 68.12%;
-    bottom: 0%;
-    left: -0.3%;
-    border-radius: 50px;
-    background-color: #a03d56;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    padding: 13px 26px;
-    box-sizing: border-box;
-    gap: 8px;
-    text-decoration: none;
-    color: #fdcedf;
-  }
   .artikel-3 {
     position: absolute;
     top: 1583px;
@@ -805,6 +789,10 @@
     align-items: center;
     justify-content: center;
     gap: 10px;
+  }
+  .next-page1 {
+    position: relative;
+    line-height: 140%;
   }
   .list-page {
     position: absolute;
@@ -1053,14 +1041,14 @@
     text-decoration: none;
     color: #fcfefe;
   }
-  .profile-button a {
-    text-decoration: none;
-    color: #fdcedf;
-  }
   .artikel-navbar a {
     text-decoration: none;
     color: #a03d56;
-    font-weight: 700;
+    font-weight: 500;
+  }
+  .profile-button a {
+    text-decoration: none;
+    color: #fdcedf;
   }
   .halo-mahoni-title a {
     text-decoration: none;

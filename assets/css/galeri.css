@@ -510,7 +510,7 @@
   }
   .galeri-navbar a {
     color: #a03d56;
-    font-weight: 700;
+    font-weight: 500;
   }
   .profile-button a {
     text-decoration: none;
@@ -552,9 +552,9 @@
     .content-galeri {
       left: 450px;
     }
-}
+  }
 
-    @media screen and (min-width:1280px) and (max-width:1367px) {
+  @media screen and (min-width:1280px) and (max-width:1367px) {
     .topmost {
       width: 1550px;
     }
@@ -598,7 +598,7 @@
       position: relative;
       left: 150px;
     }
-    }
+  }
 
 
   

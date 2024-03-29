@@ -1765,6 +1765,14 @@
   text-decoration: none;
   color: #fcfefe;
 }
+.artikel-1:Hover, .artikel-2:Hover {
+  left: 10px;
+  height: 150px;
+}
+.artikel-3:Hover, .artikel-4:Hover {
+  left: 520px;
+  height: 150px;
+}
 
 
 @media screen and (max-width:1920px) and (min-width: 1600px) {
