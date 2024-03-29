@@ -1773,6 +1773,12 @@
   left: 520px;
   height: 150px;
 }
+.tambal:hover, .scaling:hover, .cabut:hover, .behel:hover {
+  top: -10px;
+}
+.bleaching:hover, .gigi-palsu:hover, .psa:hover, .veneer:hover {
+  top: 193px;
+}
 
 
 @media screen and (max-width:1920px) and (min-width: 1600px) {

@@ -67,3 +67,12 @@
   background-color: #a03d56;
   filter: brightness(112%);
 }
+.perawatan:hover, .estetika:hover {
+  top: 200px;
+}
+.promo-1:hover, .promo-2:hover, .promo-3:hover {
+  top: 200px;
+}
+.telepon:hover, .instagram:hover {
+  top: 200px
+}

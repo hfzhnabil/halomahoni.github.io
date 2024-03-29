@@ -577,7 +577,7 @@
   .layanan-navbar a {
     text-decoration: none;
     color: #a03d56;
-    font-weight: 700;
+    font-weight: 500;
   }
   .profile-button a {
     text-decoration: none;
@@ -595,6 +595,13 @@
     text-decoration: none;
     color: #fcfefe;
   }
+  .bleaching:hover, .behel:hover {
+    top: -20px;
+  }
+  .gigi-palsu:hover, .veneer:hover {
+    top: 270px;
+  }
+
 
   @media screen and (max-width:1920px) and (min-width: 1600px) {
     .footer {

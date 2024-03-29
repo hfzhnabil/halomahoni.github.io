@@ -571,7 +571,7 @@
   .layanan-navbar a {
     text-decoration: none;
     color: #a03d56;
-    font-weight: 700;
+    font-weight: 500;
   }
   .profile-button a {
     text-decoration: none;
@@ -588,6 +588,12 @@
   .menu a, .layanan2 a, .contact-us a {
     text-decoration: none;
     color: #fcfefe;
+  }
+  .tambal-gigi:hover, .scaling:hover {
+    top: -20px;
+  }
+  .cabut-gigi:hover, .psa:hover {
+    top: 270px;
   }
   
 
