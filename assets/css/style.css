@@ -1785,6 +1785,9 @@
 .bleaching:hover, .gigi-palsu:hover, .psa:hover, .veneer:hover {
   top: 193px;
 }
+.lihat-dokter:hover, .buat-janji:hover, .riwayat-janji:hover {
+  top: -20px;
+}
 
 
 @media screen and (max-width:1920px) and (min-width: 1600px) {
