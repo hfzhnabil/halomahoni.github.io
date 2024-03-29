@@ -1771,6 +1771,12 @@
   text-decoration: none;
   color: #fcfefe;
 }
+.lihat-dokter:hover, .riwayat-janji:hover {
+  filter: brightness(105%);
+}
+.buat-janji:hover {
+  filter: brightness(112%);
+}
 .artikel-1:Hover, .artikel-2:Hover {
   left: 10px;
   height: 150px;

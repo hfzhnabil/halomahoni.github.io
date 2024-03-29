@@ -328,6 +328,10 @@
     box-sizing: border-box;
     color: #fdcedf;
   }
+  .buat-janji-button {
+    position: relative;
+    font-weight: 500;
+  }
   .buat-janji1 {
     position: absolute;
     top: 198px;

@@ -20,12 +20,6 @@
   color: #a03d56;
   font-weight: 500;
 }
-.lihat-dokter:hover, .riwayat-janji:hover {
-  filter: brightness(105%);
-}
-.buat-janji:hover {
-  filter: brightness(112%);
-}
 .lihat-lebih-banyak-button a:hover {
   font-weight: 600;
 }
@@ -75,4 +69,8 @@
 }
 .telepon:hover, .instagram:hover {
   top: 200px
+}
+.buat-janji2:hover {
+  background-color: #a03d56;
+  filter: brightness(112%);
 }
