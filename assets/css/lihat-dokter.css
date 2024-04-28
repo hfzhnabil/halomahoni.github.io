@@ -158,8 +158,10 @@
     left: 0px;
     width: 1600px;
     height: 80px;
+    font-size: 36px;
+    font-family: "Yeseva One";
   }
-  .tentang-kami-navbar {
+  .tentang-kami {
     position: relative;
   }
   .navbar-menu {
@@ -199,68 +201,70 @@
     padding: 17px 187px 18px;
     box-sizing: border-box;
     gap: 276px;
-    font-size: 18px;
     color: #fcfefe;
-    font-family: "Work Sans";
   }
   .lihat-dokter1 {
     position: absolute;
     top: 0px;
-    left: 361px;
+    left: 352px;
     font-size: 64px;
     font-family: "Yeseva One";
   }
-  .drg-shinta-photo, .drg-ingrida-photo, .drg-anthony-photo, .drg-aulia-photo, .drg-emyr-photo {
+  .drg-shinta-photo {
     position: absolute;
     top: 0px;
     left: 0px;
     border-radius: 5px 5px 0px 0px;
-    width: 317px;
-    height: 350px;
+    width: 282px;
+    height: 256.9px;
     object-fit: cover;
   }
-  .drg-shinta-box, .drg-ingrida-box, .drg-anthony-box, .drg-aulia-box, .drg-emyr-box {
+  .drg-shinta-box {
     position: absolute;
-    top: 350px;
+    top: 256.9px;
     left: 0px;
     background-color: #a03d56;
-    width: 317px;
-    height: 142px;
+    width: 282px;
+    height: 104.2px;
   }
   .drg-shinta-wijayanti {
     position: absolute;
-    top: 374px;
-    left: 20px;
+    top: 274.6px;
+    left: 17.8px;
     line-height: 140%;
+    display: inline-block;
+    width: 246.4px;
+    height: 16.2px;
   }
   .spesialis-ortodonti {
     position: absolute;
-    top: 407px;
-    left: 22px;
-    font-size: 18px;
+    top: 298.8px;
+    left: 19.6px;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    text-align: left;
+    display: inline-block;
+    width: 243.7px;
+    height: 15.4px;
   }
   .vector-linked-in-icon {
     position: absolute;
-    height: 4.88%;
-    width: 7.57%;
-    top: 90.24%;
+    height: 4.87%;
+    width: 7.59%;
+    top: 90.23%;
     right: 60.25%;
-    bottom: 4.88%;
-    left: 32.18%;
+    bottom: 4.9%;
+    left: 32.16%;
     max-width: 100%;
     overflow: hidden;
     max-height: 100%;
   }
   .vector-facebook-icon {
     position: absolute;
-    height: 4.88%;
-    width: 7.57%;
-    top: 90.24%;
-    right: 46.37%;
-    bottom: 4.88%;
+    height: 4.87%;
+    width: 7.59%;
+    top: 90.23%;
+    right: 46.35%;
+    bottom: 4.9%;
     left: 46.06%;
     max-width: 100%;
     overflow: hidden;
@@ -268,124 +272,228 @@
   }
   .vector-instagram-icon {
     position: absolute;
-    height: 4.88%;
-    width: 7.57%;
-    top: 90.24%;
-    right: 32.49%;
-    bottom: 4.88%;
-    left: 59.94%;
+    height: 4.87%;
+    width: 7.59%;
+    top: 90.23%;
+    right: 32.48%;
+    bottom: 4.9%;
+    left: 59.93%;
     max-width: 100%;
     overflow: hidden;
     max-height: 100%;
   }
-  .drg-shinta-card, .drg-ingrida-card, .drg-anthony-card, .drg-aulia-card, .drg-emyr-card {
-    width: 317px;
+  .drg-shinta-card {
+    width: 282px;
     position: relative;
-    height: 492px;
+    height: 361.2px;
+  }
+  .drg-ingrida-photo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px 5px 0px 0px;
+    width: 282px;
+    height: 256.9px;
+    object-fit: cover;
   }
   .drg-shinta-profile {
     position: absolute;
-    top: 221px;
+    top: 192px;
     left: 0px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-    font-size: 16px;
+  }
+  .drg-ingrida-box {
+    position: absolute;
+    top: 256.9px;
+    left: 0px;
+    background-color: #a03d56;
+    width: 282px;
+    height: 104.2px;
+  }
+  .drg-ingrida-card {
+    width: 282px;
+    position: relative;
+    height: 361.2px;
   }
   .drg-ingrida-asta {
     position: absolute;
-    top: 373px;
-    left: 56px;
+    top: 273.8px;
+    left: 49.8px;
     line-height: 140%;
+    display: inline-block;
+    width: 181.5px;
+    height: 18.4px;
   }
   .dokter-gigi-umum {
     position: absolute;
-    top: 406px;
-    left: 47px;
+    top: 298px;
+    left: 41.8px;
     letter-spacing: 0.16em;
     text-transform: uppercase;
+    display: inline-block;
+    width: 199.3px;
+    height: 15.4px;
   }
   .drg-ingrida-profile {
     position: absolute;
-    top: 221px;
-    left: 415px;
+    top: 192px;
+    left: 427px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
+  }
+  .drg-anthony-card {
+    width: 282px;
+    position: relative;
+    height: 361.2px;
+  }
+  .drg-anthony-photo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px 5px 0px 0px;
+    width: 282px;
+    height: 256.9px;
+    object-fit: cover;
+  }
+  .drg-anthony-box {
+    position: absolute;
+    top: 256.9px;
+    left: 0px;
+    background-color: #a03d56;
+    width: 282px;
+    height: 104.2px;
   }
   .drg-anthony-nathanael {
     position: absolute;
-    top: 372px;
-    left: 53px;
+    top: 273.1px;
+    left: 47.1px;
     line-height: 140%;
+    display: inline-block;
+    width: 188.6px;
+    height: 18.4px;
   }
   .dokter-gigi-umum1 {
     position: absolute;
-    top: 404px;
-    left: 47px;
+    top: 296.6px;
+    left: 41.8px;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    text-align: left;
+    display: inline-block;
+    width: 199.3px;
+    height: 15.4px;
   }
   .drg-anthony-profile {
     position: absolute;
-    top: 221px;
-    left: 831px;
+    top: 192px;
+    left: 852px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
   }
+  .drg-aulia-card {
+    width: 282px;
+    position: relative;
+    height: 361.2px;
+  }
+  .drg-aulia-photo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px 5px 0px 0px;
+    width: 282px;
+    height: 256.9px;
+    object-fit: cover;
+  }
+  .drg-aulia-box {
+    position: absolute;
+    top: 256.9px;
+    left: 0px;
+    background-color: #a03d56;
+    width: 282px;
+    height: 104.2px;
+  }
   .drg-aulia-hardianti {
     position: absolute;
-    top: 371px;
-    left: 41px;
+    top: 272.3px;
+    left: 36.5px;
     line-height: 140%;
+    display: inline-block;
+    width: 209.9px;
+    height: 18.4px;
   }
   .spesialis-konservasi {
     position: absolute;
-    top: 404px;
-    left: 25px;
+    top: 296.6px;
+    left: 22.2px;
     letter-spacing: 0.16em;
     text-transform: uppercase;
+    display: inline-block;
+    width: 237.5px;
+    height: 15.4px;
   }
   .drg-aulia-profile {
     position: absolute;
-    top: 779px;
+    top: 716px;
     left: 0px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-    text-align: left;
+  }
+  .drg-emyr-card {
+    width: 282px;
+    position: relative;
+    height: 361.2px;
+  }
+  .drg-emyr-photo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px 5px 0px 0px;
+    width: 282px;
+    height: 256.9px;
+    object-fit: cover;
+  }
+  .drg-emyr-box {
+    position: absolute;
+    top: 256.9px;
+    left: 0px;
+    background-color: #a03d56;
+    width: 282px;
+    height: 104.2px;
   }
   .drg-emyr-heryanza {
     position: absolute;
-    top: 371px;
-    left: 47px;
+    top: 272.3px;
+    left: 41.8px;
     line-height: 140%;
+    display: inline-block;
+    width: 199.3px;
+    height: 18.4px;
   }
   .drg-emyr-profile {
     position: absolute;
-    top: 779px;
-    left: 415px;
+    top: 716px;
+    left: 427px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-    text-align: left;
   }
   .content-lihat-dokter {
     position: absolute;
     top: 258px;
-    left: 224px;
-    width: 1148px;
-    height: 1271px;
+    left: 233px;
+    width: 1134px;
+    height: 1077.2px;
     text-align: center;
-    font-size: 18px;
-    font-family: "Work Sans";
+    font-size: 14px;
   }
   .background-footer {
     position: absolute;
@@ -487,7 +595,7 @@
     font-weight: 600;
     display: inline-block;
   }
-  .tambal-gigi {
+  .tambal-gigi, .tentang-kami {
     position: absolute;
     width: 100%;
     top: 0%;
@@ -599,28 +707,25 @@
     right: 13.69%;
     bottom: 17.8%;
     left: 13.69%;
-    font-size: 18px;
-    color: #fcfefe;
-    font-family: "Work Sans";
   }
   .footer {
     position: absolute;
-    top: 1772px;
+    top: 1581px;
     left: 0px;
     width: 1602px;
     height: 427px;
-    color: #a03d56;
+    color: #fcfefe;
   }
   .lihat-dokter {
     width: 100%;
     position: relative;
     background-color: #fcfefe;
-    height: 2199px;
+    height: 2008px;
     overflow: hidden;
     text-align: left;
-    font-size: 36px;
+    font-size: 18px;
     color: #ffb7d1;
-    font-family: "Yeseva One";
+    font-family: "Work Sans";
   }
   .halomahoni a {
     text-decoration: none;
@@ -641,7 +746,7 @@
   .menu a, .layanan2 a, .contact-us a {
     text-decoration: none;
     color: #fcfefe;
-  }
+  }  
 
   @media screen and (max-width:1920px) and (min-width: 1600px) {
     .footer {
@@ -710,6 +815,15 @@
     .content-lihat-dokter {
       position: absolute;
       left: 130px;
+    }
+    .drg-shinta-profile, .drg-aulia-profile {
+      left: 80px;
+    }
+    .drg-ingrida-profile, .drg-emyr-profile {
+      left: 450px;
+    }
+    .drg-anthony-profile {
+      left: 815px;
     }
     .content-footer {
       position: relative;
