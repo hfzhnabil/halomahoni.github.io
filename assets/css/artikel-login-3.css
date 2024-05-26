@@ -1,0 +1,884 @@
+.background-topmost {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fcfefe;
+  }
+  .mahoni {
+    color: #fdcedf;
+  }
+  .halomahoni {
+    position: absolute;
+    width: 18.45%;
+    top: 23.75%;
+    left: 13.69%;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  .call1 {
+    position: absolute;
+    width: 25.95%;
+    top: 0%;
+    left: 30.04%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .div {
+    position: absolute;
+    width: 79.1%;
+    top: 53.66%;
+    left: 20.9%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .phone-call-icon {
+    position: absolute;
+    height: 87.8%;
+    width: 18.91%;
+    top: 9.76%;
+    right: 81.09%;
+    bottom: 2.44%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .call {
+    position: absolute;
+    height: 100%;
+    width: 26.3%;
+    top: 0%;
+    right: 73.7%;
+    bottom: 0%;
+    left: 0%;
+  }
+  .everyday {
+    position: absolute;
+    width: 82.11%;
+    top: 52.5%;
+    left: 17.89%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .work-hour1 {
+    position: absolute;
+    width: 45.87%;
+    top: 0%;
+    left: 17.89%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .clock-icon {
+    position: absolute;
+    height: 83.5%;
+    width: 12.71%;
+    top: 5%;
+    right: 87.29%;
+    bottom: 11.5%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .work-hour {
+    position: absolute;
+    height: 97.56%;
+    width: 36.28%;
+    top: 2.44%;
+    right: 28.91%;
+    bottom: 0%;
+    left: 34.81%;
+  }
+  .jakarta-timur {
+    position: absolute;
+    width: 73.35%;
+    top: 52.5%;
+    left: 26.65%;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .location1 {
+    position: absolute;
+    width: 53.85%;
+    top: 0%;
+    left: 26.65%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .location-icon {
+    position: absolute;
+    height: 90%;
+    width: 20.11%;
+    top: 2.5%;
+    right: 79.89%;
+    bottom: 7.5%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .location {
+    position: absolute;
+    height: 97.56%;
+    width: 24.72%;
+    top: 2.44%;
+    right: 0%;
+    bottom: 0%;
+    left: 75.28%;
+  }
+  .contact-section {
+    position: absolute;
+    height: 51.25%;
+    width: 45.25%;
+    top: 23.75%;
+    right: 13.13%;
+    bottom: 25%;
+    left: 41.63%;
+    font-size: 16px;
+    color: #fdcedf;
+    font-family: "Work Sans";
+  }
+  .topmost {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1600px;
+    height: 80px;
+    font-size: 36px;
+    color: #ffb7d1;
+    font-family: "Yeseva One";
+  }
+  .tentang-kami {
+    position: relative;
+  }
+  .navbar-menu {
+    width: 767px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .login {
+    position: relative;
+    font-weight: 500;
+  }
+  .login-button {
+    border-radius: 50px;
+    background-color: #a03d56;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 35px;
+    font-size: 16px;
+    color: #fdcedf;
+  }
+  .navbar {
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    background-color: #ffb7d1;
+    width: 1600px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 17px 187px 18px;
+    box-sizing: border-box;
+    gap: 276px;
+  }
+  .artikel1 {
+    position: absolute;
+    top: 0px;
+    left: 386.1px;
+    font-size: 64px;
+    font-family: "Yeseva One";
+    color: #ffb7d1;
+    text-align: center;
+  }
+  .artikel-box {
+    position: absolute;
+    height: 84.97%;
+    width: 100%;
+    top: 5.26%;
+    right: 0%;
+    bottom: 9.76%;
+    left: 0%;
+    border-radius: 20px;
+    background-color: #fff;
+    border: 5px solid #ffb7d1;
+    box-sizing: border-box;
+  }
+  .cara-menghilangkan-bau {
+    margin: 0;
+  }
+  .cara-menghilangkan-bau-container {
+    position: absolute;
+    height: 1.91%;
+    width: 95.66%;
+    top: 6.76%;
+    left: 2.66%;
+    font-size: 36px;
+    font-family: "Yeseva One";
+    color: #ffb7d1;
+    text-align: left;
+    display: inline-block;
+  }
+  .jumat-12-april {
+    position: absolute;
+    height: 92.55%;
+    width: 89.19%;
+    top: 7.45%;
+    left: 10.81%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .vector-date-icon {
+    position: absolute;
+    height: 74.84%;
+    width: 7.19%;
+    top: 0%;
+    right: 92.81%;
+    bottom: 25.16%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .date {
+    position: absolute;
+    height: 100%;
+    width: 42.93%;
+    top: 0%;
+    right: 57.07%;
+    bottom: 0%;
+    left: 0%;
+  }
+  .halo-mahoni {
+    position: absolute;
+    height: 95.82%;
+    width: 80.17%;
+    top: 4.5%;
+    left: 19.83%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .vector-author-icon {
+    position: absolute;
+    height: 78.46%;
+    width: 13.2%;
+    top: 0%;
+    right: 86.8%;
+    bottom: 21.54%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .author {
+    position: absolute;
+    height: 96.58%;
+    width: 23.4%;
+    top: 0%;
+    right: 24.57%;
+    bottom: 3.42%;
+    left: 52.03%;
+  }
+  .div1 {
+    position: absolute;
+    height: 100%;
+    width: 44.25%;
+    top: 0%;
+    left: 55.75%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .vector-view-icon {
+    position: absolute;
+    height: 46.64%;
+    width: 37.1%;
+    top: 13.42%;
+    right: 62.9%;
+    bottom: 39.93%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .view {
+    position: absolute;
+    height: 92.55%;
+    width: 8.32%;
+    top: 4.35%;
+    right: 11.99%;
+    bottom: 3.11%;
+    left: 79.69%;
+  }
+  .div2 {
+    position: absolute;
+    height: 100%;
+    width: 35.1%;
+    top: 0%;
+    left: 64.9%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .vector-like-icon {
+    position: absolute;
+    height: 64.43%;
+    width: 43.19%;
+    top: 4.36%;
+    right: 56.81%;
+    bottom: 31.21%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .like {
+    position: absolute;
+    height: 92.55%;
+    width: 7.15%;
+    top: 4.35%;
+    right: 0.02%;
+    bottom: 3.11%;
+    left: 92.83%;
+  }
+  .artikel-info {
+    position: absolute;
+    height: 1.09%;
+    width: 57.45%;
+    top: 11%;
+    right: 39.9%;
+    bottom: 87.9%;
+    left: 2.66%;
+    text-align: left;
+  }
+  .bangun-tidur-dengan {
+    position: absolute;
+    top: 401px;
+    left: 28px;
+    line-height: 140%;
+    display: inline-block;
+    width: 612px;
+  }
+  .menyikat-gigi-dua {
+    position: absolute;
+    top: 550px;
+    left: 28.1px;
+    font-size: 18px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 602px;
+    height: 45px;
+  }
+  .foto-artikel-icon {
+    position: absolute;
+    height: 11.53%;
+    width: 68.55%;
+    top: 21.57%;
+    right: 28.79%;
+    bottom: 66.9%;
+    left: 2.66%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .kita-sebaiknya-menyikat-container {
+    position: absolute;
+    top: 1014px;
+    left: 28.1px;
+    line-height: 140%;
+    display: inline-block;
+    width: 590px;
+  }
+  .rutin-periksa-ke-dokter-gigi {
+    position: absolute;
+    top: 1311px;
+    left: 28px;
+    font-size: 18px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 602px;
+  }
+  .span {
+    text-decoration: underline;
+  }
+  .rutin-periksa-ke-dokter-gigi-container {
+    position: absolute;
+    top: 1379px;
+    left: 28.1px;
+    line-height: 140%;
+    display: inline-block;
+    width: 590px;
+  }
+  .minum-banyak-air {
+    position: absolute;
+    top: 1690px;
+    left: 23px;
+    font-size: 18px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 602px;
+  }
+  .minum-banyak-air-container {
+    position: absolute;
+    top: 1758px;
+    left: 23px;
+    line-height: 140%;
+    display: inline-block;
+    width: 590px;
+  }
+  .menggunakan-mouthwash {
+    position: absolute;
+    top: 1981px;
+    left: 22px;
+    font-size: 18px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 602px;
+  }
+  .menggunakan-mouthwash-container {
+    position: absolute;
+    top: 2049px;
+    left: 23px;
+    line-height: 140%;
+    display: inline-block;
+    width: 590px;
+  }
+  .gunakan-bahan-alami {
+    position: absolute;
+    top: 2281px;
+    left: 23px;
+    font-size: 18px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 602px;
+  }
+  .gunakan-bahan-alami-container {
+    position: absolute;
+    top: 2349px;
+    left: 23px;
+    line-height: 140%;
+    display: inline-block;
+    width: 590px;
+  }
+  .konsultasi-sekarang-box {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 20px;
+    background-color: #fff;
+    border: 5px solid #ffb7d1;
+    box-sizing: border-box;
+  }
+  .konsultasi-sekarang-gratis {
+    position: absolute;
+    top: 46.3px;
+    left: 233.1px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 470px;
+    height: 46px;
+  }
+  .chat-sekarang-button {
+    position: absolute;
+    top: 103.3px;
+    left: 396.1px;
+    border-radius: 50px;
+    background-color: #a03d56;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 35px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 16px;
+    color: #ffb7d1;
+  }
+  .chat-sekarang {
+    position: relative;
+    font-weight: 500;
+  }
+  .konsultasi-sekarang {
+    position: absolute;
+    height: 6.3%;
+    width: 100%;
+    top: 93.7%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    text-align: center;
+    font-size: 18px;
+  }
+  .content-artikel {
+    position: absolute;
+    top: 258px;
+    left: 267px;
+    width: 1054.2px;
+    height: 2944.2px;
+    text-align: justify;
+    font-size: 16px;
+    color: #000;
+  }
+  .background-footer {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #ffb7d1;
+  }
+  .halomahoni1 {
+    position: absolute;
+    width: 93.33%;
+    top: 0%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  .your-one-stop {
+    position: absolute;
+    width: 100%;
+    top: 70.59%;
+    left: 0%;
+    font-size: 18px;
+    line-height: 140%;
+    font-family: "Work Sans";
+    color: #fcfefe;
+    display: inline-block;
+  }
+  .halo-mahoni-title {
+    position: absolute;
+    height: 30.25%;
+    width: 27.22%;
+    top: 0%;
+    right: 72.78%;
+    bottom: 69.75%;
+    left: 0%;
+    font-size: 36px;
+    color: #a03d56;
+    font-family: "Yeseva One";
+  }
+  .menu1 {
+    position: absolute;
+    width: 46.22%;
+    top: 0%;
+    left: 0%;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .layanan1 {
+    position: absolute;
+    width: 61.27%;
+    top: 26.61%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .promo1 {
+    position: absolute;
+    width: 48.07%;
+    top: 53.21%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .galeri1 {
+    position: absolute;
+    width: 43.4%;
+    top: 79.82%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .menu-content, .layanan-content {
+    position: absolute;
+    height: 64.5%;
+    width: 100%;
+    top: 35.5%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-size: 16px;
+  }
+  .menu {
+    position: absolute;
+    height: 60.14%;
+    width: 10.69%;
+    top: 0%;
+    right: 55.64%;
+    bottom: 39.86%;
+    left: 33.67%;
+  }
+  .layanan3 {
+    position: absolute;
+    width: 82.26%;
+    top: 0%;
+    left: 0%;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .tambal-gigi {
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .scaling {
+    position: absolute;
+    width: 62.24%;
+    top: 26.61%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .cabut-gigi {
+    position: absolute;
+    width: 90.04%;
+    top: 53.21%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .behel {
+    position: absolute;
+    width: 48.86%;
+    top: 79.82%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .layanan2 {
+    position: absolute;
+    height: 60.14%;
+    width: 9.07%;
+    top: 0%;
+    right: 40.12%;
+    bottom: 39.86%;
+    left: 50.8%;
+  }
+  .contact-us1 {
+    position: absolute;
+    width: 40.34%;
+    top: 0%;
+    left: 0%;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .call-6281213507918 {
+    position: absolute;
+    width: 67.5%;
+    top: 0%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .email-mahonidentalgmailcom {
+    position: absolute;
+    width: 100%;
+    top: 56.86%;
+    left: 0%;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .contact-us-content {
+    position: absolute;
+    height: 45.95%;
+    width: 100%;
+    top: 54.05%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-size: 16px;
+  }
+  .contact-us {
+    position: absolute;
+    height: 39.5%;
+    width: 24.49%;
+    top: 0%;
+    right: 9.98%;
+    bottom: 60.5%;
+    left: 65.52%;
+  }
+  .vector-1-icon {
+    position: absolute;
+    height: 0.36%;
+    width: 100%;
+    top: 76.87%;
+    right: 0%;
+    bottom: 22.78%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .copyright-2024 {
+    position: absolute;
+    width: 65.52%;
+    top: 93.24%;
+    left: 0%;
+    font-size: 16px;
+    display: inline-block;
+  }
+  .content-footer {
+    position: absolute;
+    height: 65.81%;
+    width: 72.62%;
+    top: 16.39%;
+    right: 13.69%;
+    bottom: 17.8%;
+    left: 13.69%;
+  }
+  .footer {
+    position: absolute;
+    top: 3391px;
+    left: 0px;
+    width: 1600px;
+    height: 427px;
+  }
+  .artikel-login-3 {
+    width: 100%;
+    position: relative;
+    background-color: #fcfefe;
+    height: 3818px;
+    text-align: left;
+    font-size: 18px;
+    color: #fcfefe;
+    font-family: "Work Sans";
+    overflow: hidden;
+  }
+  .halomahoni a {
+    text-decoration: none;
+    color: #ffb7d1;
+  }
+  .navbar-menu a {
+    text-decoration: none;
+    color: #fcfefe;
+  }
+  .artikel-navbar a {
+    text-decoration: none;
+    color: #a03d56;
+    font-weight: 500;
+  }
+  .login-button a {
+    text-decoration: none;
+    color: #fdcedf;
+  }
+  .chat-sekarang-button a {
+    text-decoration: none;
+    color: #fdcedf;
+  }
+  .halo-mahoni-title a {
+    text-decoration: none;
+    color: #a03d56;
+  }
+  .menu a, .layanan2 a, .contact-us a {
+    text-decoration: none;
+    color: #fcfefe;
+  }  
+
+  
+  @media screen and (max-width:1920px) and (min-width: 1600px) {
+    .footer {
+        width: 100%;
+    }
+    .navbar {
+    width: 100%;
+    }
+    .topmost {
+    width: 100%;
+    }
+    .navbar-menu {
+      position: absolute;
+      left: 265px;
+    }
+    .contact-section {
+      width: 45%;
+      height: 60%;
+    }
+    .login-button {
+      position: relative;
+      left: 595px;
+    }
+    .content-artikel {
+      left: 430px;
+    }
+    .artikel1 {
+      left: 420px;
+    }
+    }
+
+    @media screen and (min-width:1280px) and (max-width:1367px) {
+        .topmost {
+          width: 1550px;
+        }
+        .halomahoni {
+          position: relative;
+          left: 205px;
+        }
+        .contact-section {
+          position: absolute;
+          left: 593px;
+          width: 40.9%;
+        }
+        .call {
+          width: 30%;
+        }
+        .work-hour {
+          width: 40%;
+        }
+        .location {
+          width: 30%;
+        }
+        .navbar {
+          width: 1509px;
+        }
+        .footer {
+          width: 1500px;
+        }
+        .login-button {
+          position: relative;
+          right: 85px;
+        }
+       .navbar-menu {
+          position: relative;
+          left: 20px;
+        } 
+        .content-artikel {
+          position: absolute;
+          left: 195px;
+        }
+        .content-footer {
+          position: relative;
+          left: 150px;
+        } 
+        }
